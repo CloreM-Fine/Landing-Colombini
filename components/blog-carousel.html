@@ -1,0 +1,53 @@
+<!-- ==============================================
+   COLOMBINI LELIO SRL - Blog Carousel Component
+   Componente riutilizzabile per il carosello blog
+   ============================================== -->
+
+<section class="py-16 md:py-24 bg-white" id="blog-carousel-section">
+    <div class="container mx-auto px-4">
+        <div class="text-center mb-12 reveal">
+            <span class="text-green-600 font-medium">Blog & Guide</span>
+            <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mt-2">Consigli e Guide Tecniche</h2>
+            <p class="text-gray-600 mt-4 max-w-2xl mx-auto">
+                Scopri i nostri articoli con consigli pratici su manutenzione, riparazione e utilizzo delle attrezzature.
+            </p>
+        </div>
+
+        <!-- Blog Posts Carousel -->
+        <div class="relative mb-12">
+            <div id="home-blog-posts" class="flex gap-6 overflow-x-auto pb-4 snap-x snap-mandatory scrollbar-hide" style="-webkit-overflow-scrolling: touch; scrollbar-width: none; -ms-overflow-style: none;">
+                <!-- I post verranno caricati qui da JavaScript -->
+                <div class="flex-shrink-0 w-80 md:w-96 text-center py-8">
+                    <div class="inline-block animate-spin rounded-full h-8 w-8 border-4 border-green-600 border-t-transparent"></div>
+                    <p class="mt-4 text-gray-600">Caricamento articoli...</p>
+                </div>
+            </div>
+            <!-- Pulsanti navigazione carousel -->
+            <button onclick="scrollBlogCarousel('left')" class="absolute left-0 top-1/2 -translate-y-1/2 bg-white/90 hover:bg-white text-green-700 p-3 rounded-full shadow-lg z-10 hidden md:block">
+                <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"/></svg>
+            </button>
+            <button onclick="scrollBlogCarousel('right')" class="absolute right-0 top-1/2 -translate-y-1/2 bg-white/90 hover:bg-white text-green-700 p-3 rounded-full shadow-lg z-10 hidden md:block">
+                <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+            </button>
+        </div>
+
+        <div class="text-center reveal">
+            <a href="/blog.html" class="btn btn-secondary px-8 py-3 rounded-lg inline-flex items-center gap-2">
+                Vedi tutti gli articoli
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3" />
+                </svg>
+            </a>
+        </div>
+    </div>
+</section>
+
+<style>
+.scrollbar-hide::-webkit-scrollbar {
+    display: none;
+}
+.scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+</style>

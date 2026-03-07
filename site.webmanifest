@@ -1,0 +1,50 @@
+{
+  "name": "Colombini Lelio SRL - Macchine Agricole e Giardinaggio Lucca",
+  "short_name": "Colombini Lelio",
+  "description": "Vendita, riparazione e assistenza macchine agricole, attrezzature giardinaggio, autofficina, ricambi, gas GPL e DPI a Lucca. Dal 1926.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2D5A27",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "it-IT",
+  "icons": [
+    {
+      "src": "/images/favicon/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/favicon/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/favicon/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["business", "shopping", "automotive"],
+  "screenshots": [
+    {
+      "src": "/images/link/logo-link.webp",
+      "sizes": "1200x630",
+      "type": "image/webp",
+      "form_factor": "wide"
+    }
+  ]
+}

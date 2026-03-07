@@ -1,0 +1,149 @@
+<!-- ==============================================
+   COLOMBINI LELIO SRL - Header Component
+   ============================================== 
+   
+   COME MODIFICARE IL LOGO:
+   1. Sostituisci il placeholder SVG con la tua immagine:
+      <img src="images/logo.webp" alt="Colombini Lelio" class="h-10 md:h-12 w-auto">
+   2. Oppure inserisci il tuo SVG direttamente
+   
+   COME MODIFICARE IL NUMERO DI TELEFONO:
+   1. Cerca "tel:+39" e modifica il numero
+   2. Modifica anche il testo visualizzato
+   
+============================================== -->
+
+<header class="header-sticky bg-white shadow-md fixed top-0 left-0 right-0 z-50">
+    <div class="container mx-auto px-4">
+        <div class="flex items-center justify-between h-16 md:h-20">
+
+            <!-- Logo -->
+            <a href="/" class="flex items-center gap-2" aria-label="Colombini Lelio SRL - Macchine Agricole Lucca">
+                <!-- Logo -->
+                <img src="images/logo/Logo.svg" alt="Colombini Lelio SRL" class="h-10 md:h-12 w-auto">
+                <div>
+                    <span class="font-bold text-lg" style="color: #1E773B;">Colombini Lelio</span>
+                </div>
+            </a>
+
+            <!-- Desktop Navigation -->
+            <nav class="hidden lg:flex items-center gap-6" aria-label="Navigazione principale">
+                <a href="/" class="text-gray-700 hover:text-green-700 font-medium transition-colors">
+                    Home
+                </a>
+                <a href="/chi-siamo" class="text-gray-700 hover:text-green-700 font-medium transition-colors">
+                    Chi Siamo
+                </a>
+                <a href="/servizi" class="text-gray-700 hover:text-green-700 font-medium transition-colors">
+                    Servizi
+                </a>
+                <a href="/blog" class="text-gray-700 hover:text-green-700 font-medium transition-colors">
+                    Blog
+                </a>
+                <a href="/contatti" class="text-gray-700 hover:text-green-700 font-medium transition-colors">
+                    Contatti
+                </a>
+            </nav>
+
+            <!-- Right Section - Phone & CTA -->
+            <div class="flex items-center gap-4">
+                <!-- Phone Number - Desktop -->
+                <a href="tel:+390583394039"
+                    class="hidden md:flex items-center gap-2 text-gray-700 hover:text-green-700 transition-colors">
+                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                            d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
+                    </svg>
+                    <span class="font-medium">0583 394039</span>
+                </a>
+
+                <!-- CTA Button - Desktop -->
+                <a href="/contatti" class="hidden lg:inline-flex btn btn-primary px-5 py-2.5 rounded-lg text-sm">
+                    Preventivo Gratuito
+                </a>
+
+                <!-- Mobile Menu Button -->
+                <button id="hamburger-btn" class="lg:hidden p-2 text-gray-700 hover:text-green-700 focus:outline-none"
+                    aria-label="Apri menu">
+                    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                            d="M4 6h16M4 12h16M4 18h16" />
+                    </svg>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Mobile Menu -->
+    <div id="mobile-menu" class="mobile-menu fixed top-0 right-0 w-80 max-w-full h-full bg-white shadow-2xl z-50">
+        <div class="flex flex-col h-full">
+            <!-- Mobile Menu Header -->
+            <div class="flex items-center justify-between p-4 border-b">
+                <span class="font-bold text-gray-800">Menu</span>
+                <button id="mobile-menu-close" class="p-2 text-gray-600 hover:text-green-700" aria-label="Chiudi menu">
+                    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                            d="M6 18L18 6M6 6l12 12" />
+                    </svg>
+                </button>
+            </div>
+
+            <!-- Mobile Navigation Links -->
+            <nav class="flex-1 overflow-y-auto p-4" aria-label="Navigazione mobile">
+                <a href="/"
+                    class="block py-3 px-4 text-gray-700 hover:bg-green-50 hover:text-green-700 rounded-lg font-medium transition-all">
+                    Home
+                </a>
+                <a href="/chi-siamo"
+                    class="block py-3 px-4 text-gray-700 hover:bg-green-50 hover:text-green-700 rounded-lg font-medium transition-all">
+                    Chi Siamo
+                </a>
+                <a href="/servizi"
+                    class="block py-3 px-4 text-gray-700 hover:bg-green-50 hover:text-green-700 rounded-lg font-medium transition-all">
+                    Servizi
+                </a>
+                <a href="/blog"
+                    class="block py-3 px-4 text-gray-700 hover:bg-green-50 hover:text-green-700 rounded-lg font-medium transition-all">
+                    Blog
+                </a>
+                <a href="/contatti"
+                    class="block py-3 px-4 text-gray-700 hover:bg-green-50 hover:text-green-700 rounded-lg font-medium transition-all">
+                    Contatti
+                </a>
+            </nav>
+
+            <!-- Mobile Menu Footer -->
+            <div class="p-4 border-t bg-gray-50">
+                <!-- Phone -->
+                <a href="tel:+390583394039" class="flex items-center gap-3 py-3 text-gray-700 hover:text-green-700">
+                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                            d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
+                    </svg>
+                    <span class="font-medium">0583 394039</span>
+                </a>
+
+                <!-- Email -->
+                <a href="mailto:info@colombinilelio.it"
+                    class="flex items-center gap-3 py-3 text-gray-700 hover:text-green-700">
+                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                            d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
+                    </svg>
+                    <span>info@colombinilelio.it</span>
+                </a>
+
+                <!-- CTA Button -->
+                <a href="/contatti" class="btn btn-primary w-full py-3 rounded-lg text-center mt-4">
+                    Richiedi Preventivo
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Mobile Menu Overlay -->
+    <div id="mobile-menu-overlay" class="fixed inset-0 bg-black/50 z-40 hidden"></div>
+</header>
+
+<!-- Spacer to prevent content from going under fixed header -->
+<div class="h-16 md:h-20"></div>

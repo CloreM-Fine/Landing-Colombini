@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+Disallow: /contatto.php
+Disallow: /csrf.php
+Disallow: /thank-you.html
+Disallow: /errore.html
+Disallow: /thank-you.html
+Disallow: /log_errori.txt
+Disallow: /rate_limit/
+Disallow: /.htaccess
+
+# Sitemap
+Sitemap: https://www.colombinilelio.it/sitemap.xml
