@@ -1,0 +1,30 @@
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+log_errori.txt
+
+# Config Files
+.ftpconfig
+ftp-config.sh
+.env
+
+# Backup
+*.bak
+*.swp
+*~
+
+# Node (se usato in futuro)
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
