@@ -9,7 +9,7 @@
 FTP_SERVER="ftp.colombinilelio.it"      # Es: ftp.colombinilelio.it
 FTP_USERNAME="u758834859"               # Username SiteGround
 FTP_PASSWORD="INSERISCI_PASSWORD"       # Password FTP
-FTP_REMOTE_DIR="/public_html"           # Cartella remota (SiteGround usa public_html)
+FTP_REMOTE_DIR="."                      # Cartella corrente (SiteGround: sei già in public_html)
 
 # Colori per output
 RED='\033[0;31m'
@@ -50,7 +50,7 @@ FILES_TO_UPLOAD=(
 
 echo -e "${YELLOW}Server:${NC} $FTP_SERVER"
 echo -e "${YELLOW}Username:${NC} $FTP_USERNAME"
-echo -e "${YELLOW}Directory remota:${NC} $FTP_REMOTE_DIR"
+echo -e "${YELLOW}Directory remota:${NC} root (public_html)
 echo ""
 echo -e "${YELLOW}File da caricare:${NC}"
 for file in "${FILES_TO_UPLOAD[@]}"; do

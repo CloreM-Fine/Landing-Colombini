@@ -16,7 +16,7 @@ NC='\033[0m'
 SERVER="${FTP_SERVER:-ftp.colombinilelio.it}"
 USERNAME="${FTP_USERNAME:-u758834859}"
 PASSWORD="${FTP_PASSWORD}"
-REMOTE_DIR="public_html"
+REMOTE_DIR=""  # Vuoto = cartella corrente (public_html su SiteGround)
 
 echo -e "${BLUE}╔══════════════════════════════════════════════════════════╗${NC}"
 echo -e "${BLUE}║${NC}        ${GREEN}DEPLOY CON GIT SECRETS${NC}                          ${BLUE}║${NC}"
@@ -78,7 +78,7 @@ for file in "${FILES[@]}"; do
     echo -n "📤 $file ... "
     
     curl -s --ftp-ssl-reqd -T "$file" \
-        "ftp://$USERNAME:$PASSWORD@$SERVER/$REMOTE_DIR/$file" 2>/dev/null
+        "ftp://$USERNAME:$PASSWORD@$SERVER/$file" 2>/dev/null
     
     if [ $? -eq 0 ]; then
         echo -e "${GREEN}✓ OK${NC}"

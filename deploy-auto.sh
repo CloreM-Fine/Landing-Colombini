@@ -15,7 +15,7 @@ NC='\033[0m'
 # Configurazione
 SERVER="ftp.colombinilelio.it"
 USERNAME="u758834859"
-REMOTE_DIR="public_html"
+REMOTE_DIR=""  # Vuoto = cartella corrente (public_html su SiteGround)
 
 # File da caricare (modificati per SEO e form)
 FILES=(
@@ -85,7 +85,7 @@ for file in "${FILES[@]}"; do
     # Carica con curl (FTPES - FTP con TLS esplicito)
     RESULT=$(curl -s -w "\n%{http_code}" --ftp-ssl-reqd \
         -T "$file" \
-        "ftp://$USERNAME:$PASSWORD@$SERVER/$REMOTE_DIR/$file" 2>&1)
+        "ftp://$USERNAME:$PASSWORD@$SERVER/$file" 2>&1)
     
     HTTP_CODE=$(echo "$RESULT" | tail -n1)
     
