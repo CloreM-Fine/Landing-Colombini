@@ -8,7 +8,7 @@ class BlogSystem {
         this.posts = [];
         // Rileva se siamo nella cartella blog o nella root
         const isInBlogFolder = window.location.pathname.includes('/blog-assets/') && !window.location.pathname.endsWith('/blog/');
-        this.baseUrl = isInBlogFolder ? 'posts.json?v=4' : '/blog-assets/posts.json?v=2';
+        this.baseUrl = isInBlogFolder ? 'posts.json?v=6' : '/blog-assets/posts.json?v=6';
     }
 
     /**
