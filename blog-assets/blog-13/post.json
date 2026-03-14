@@ -30,8 +30,7 @@
         "id": "cosa-sono-dpi",
         "title": "1. Cosa sono i DPI e Perche sono Obbligatori",
         "content": "<p>I Dispositivi di Protezione Individuale (DPI) sono tutti gli equipaggiamenti destinati ad essere indossati o tenuti a disposizione del lavoratore al fine di proteggerlo contro uno o piu rischi. In Italia, l'utilizzo dei DPI e regolamentato dal D.Lgs. 81/2008 (Testo Unico sulla Sicurezza) e dal D.Lgs. 475/92 che recepisce le direttive europee.</p><p><strong>Perche sono fondamentali:</strong></p><ul class='list-disc pl-6 mb-4 space-y-2'><li>Proteggono da infortuni permanenti (traumi, amputazioni, lesioni gravi).</li><li>Prevengono malattie professionali (problemi respiratori, dermatiti, sordita).</li><li>Sono obbligatori per legge: il datore di lavoro deve fornirli e il lavoratore deve usarli.</li><li>Riducono i costi sanitari e i giorni di lavoro persi per infortuni.</li></ul><p><strong>Normativa di riferimento:</strong> I DPI devono essere conformi alla normativa europea (marcatura CE) e adeguati ai rischi specifici dell'attivita svolta.</p>",
-        "image": "/blog-assets/blog-13/operatore-completo-dpi.webp",
-        "imageAlt": "Operatore agricolo indossando completo DPI durante il lavoro in sicurezza"
+
       },
       {
         "id": "protezione-testa",
@@ -45,8 +44,7 @@
           {
             "title": "2.2 Cappellini e Copricapi",
             "content": "<p>Per protezione solare e leggera:</p><ul class='list-disc pl-6 mb-4 space-y-2'><li><strong>Cappelli con visiera:</strong> Proteggono dal sole durante la raccolta o la potatura.</li><li><strong>Cuffie antirumore integrate:</strong> Combinano protezione solare e auricolare.</li><li><strong>Bandane tecniche:</strong> Assorbono il sudore e proteggono dai raggi UV.</li></ul><p><strong>Consiglio:</strong> Anche quando sembra non servire, indossare sempre un copricapo adeguato al clima e al lavoro svolto.</p>",
-            "image": "/blog-assets/blog-13/casco-protezione-testa.webp",
-            "imageAlt": "Confronto tra casco di sicurezza e cappello da lavoro per agricoltura"
+
           }
         ]
       },
@@ -62,8 +60,7 @@
           {
             "title": "3.2 Visiere e Schermi Faciali",
             "content": "<p>Per protezione superiore:</p><ul class='list-disc pl-6 mb-4 space-y-2'><li><strong>Visiere integrate nei caschi:</strong> Proteggono tutto il viso da proiettili e ramaglie.</li><li><strong>Visiere antirumore:</strong> Combinano protezione visiva e auricolare (ideali per decespugliatori).</li><li><strong>Schermi in rete:</strong> Piu leggere, permettono la ventilazione, adatte per potatura.</li></ul><p><strong>Quando usarle:</strong> Sempre quando si usano motoseghe, decespugliatori, trinciatrici o durante la potatura di rami sopra la testa.</p>",
-            "image": "/blog-assets/blog-13/visiera-cuffie-antirumore.webp",
-            "imageAlt": "Visiera protettiva integrata con cuffie antirumore per uso con decespugliatore"
+
           }
         ]
       },
@@ -79,8 +76,7 @@
           {
             "title": "4.2 Livelli di Rumore delle Macchine Agricole",
             "content": "<table class='w-full border-collapse border border-gray-300 mb-4'><thead><tr class='bg-green-600 text-white'><th class='p-3 border'>Macchina</th><th class='p-3 border'>Livello Rumore (dB)</th><th class='p-3 border'>Protezione Consigliata</th></tr></thead><tbody><tr><td class='p-3 border'>Trattore</td><td class='p-3 border'>85-95</td><td class='p-3 border'>Tappi o cuffie</td></tr><tr><td class='p-3 border'>Decespugliatore</td><td class='p-3 border'>95-105</td><td class='p-3 border'>Cuffie obbligatorie</td></tr><tr><td class='p-3 border'>Motosega</td><td class='p-3 border'>100-110</td><td class='p-3 border'>Cuffie professionali</td></tr><tr><td class='p-3 border'>Tosaerba benzina</td><td class='p-3 border'>85-95</td><td class='p-3 border'>Tappi consigliati</td></tr></tbody></table><p><strong>Regola d'oro:</strong> Se devi alzare la voce per parlare con una persona a un metro di distanza, indossa sempre la protezione acustica!</p>",
-            "image": "/blog-assets/blog-13/cuffie-professionali.webp",
-            "imageAlt": "Operatore che indossa cuffie antirumore professionali durante l'uso del trattore"
+
           }
         ]
       },
@@ -96,8 +92,7 @@
           {
             "title": "5.2 Semimaschere con Filtri",
             "content": "<p>Per protezione superiore e uso prolungato:</p><ul class='list-disc pl-6 mb-4 space-y-2'><li><strong>Con filtri A:</strong> Proteggono da vapori organici (pesticidi, solventi).</li><li><strong>Con filtri P:</strong> Contro polveri e particellato.</li><li><strong>Con filtri ABEK-P3:</strong> Protezione completa contro gas, vapori e polveri.</li></ul><p><strong>Quando usarle:</strong> Durante la distribuzione di concimi, trattamenti fitosanitari, lavorazione di terreni secchi (polvere), lavori in ambienti confinati (silos, stalle).</p>",
-            "image": "/blog-assets/blog-13/maschera-protettiva.webp",
-            "imageAlt": "Agricoltore che indossa semimaschera con filtri durante la distribuzione di concime"
+
           }
         ]
       },
@@ -113,8 +108,7 @@
           {
             "title": "6.2 Come Scegliere i Guanti Giusti",
             "content": "<p><strong>Per lavoro:</strong></p><ul class='list-disc pl-6 mb-4 space-y-2'><li>Potatura e uso coltelli: Guanti in pelle spessa o antitaglio.</li><li>Uso motosega: Guanti antitaglio professionali (classe 0 o 1).</li><li>Raccolta ortaggi: Guanti in cotone o lattice leggeri.</li><li>Trattamenti fitosanitari: Guanti in nitrile o neoprene chimico.</li><li>Lavoro con spine: Guanti in pelle con polsino lungo.</li></ul><p><strong>Manutenzione:</strong> Lavare i guanti regolarmente, sostituirli quando presentano tagli o usura eccessiva.</p>",
-            "image": "/blog-assets/blog-13/guanti-lavoro-tipologie.webp",
-            "imageAlt": "Diverse tipologie di guanti da lavoro per agricoltura esposte su tavolo"
+
           }
         ]
       },
@@ -130,8 +124,7 @@
           {
             "title": "7.2 Stivali vs Scarpe Antinfortunistiche",
             "content": "<p><strong>Stivali in gomma:</strong></p><ul class='list-disc pl-6 mb-4 space-y-2'><li>Ideali per terreni fangosi, allagati o con fango.</li><li>Facili da pulire e disinfettare.</li><li>Proteggono fino al ginocchio.</li><li>Indicati per lavori con acqua, irrigazione, allevamento.</li></ul><p><strong>Scarpe alte antinfortunistiche:</strong></p><ul class='list-disc pl-6 mb-4 space-y-2'><li>Piu leggere e comode per lavori prolungati.</li><li>Migliore traspirabilita.</li><li>Indicate per potatura, raccolta, guida trattore.</li></ul><p><strong>Consiglio:</strong> Avere entrambe le tipologie e usarle in base al lavoro specifico della giornata.</p>",
-            "image": "/blog-assets/blog-13/stivali-antinfortunistici.webp",
-            "imageAlt": "Stivali in gomma antinfortunistici e scarpe da lavoro alte per agricoltura"
+
           }
         ]
       },
@@ -147,8 +140,7 @@
           {
             "title": "8.2 Abbigliamento Specifico per Attivita",
             "content": "<ul class='list-disc pl-6 mb-4 space-y-2'><li><strong>Pantaloni antitaglio:</strong> Essenziali per chi usa motoseghe e decespugliatori (classe 1 o 2).</li><li><strong>Giubbotti impermeabili:</strong> Per lavori con pioggia o rugiada mattutina.</li><li><strong>Gilet catarifrangenti:</strong> Per lavori sulla strada o in condizioni di scarsa visibilita.</li><li><strong>Indumenti antiproiettile:</strong> Per decespugliatori e trinciatrici.</li></ul>",
-            "image": "/blog-assets/blog-13/pantaloni-antitaglio.webp",
-            "imageAlt": "Agricoltore che indossa pantaloni antitaglio e giubbotto catarifrangente durante la potatura"
+
           }
         ]
       },
@@ -164,8 +156,7 @@
           {
             "title": "9.2 Doveri del Lavoratore",
             "content": "<ul class='list-disc pl-6 mb-4 space-y-2'><li>Utilizzare correttamente i DPI forniti.</li><li>Non rimuovere o disattivare dispositivi di sicurezza.</li><li>Segnalare tempestivamente al datore eventuali difetti o usura.</li><li>Partecipare alla formazione sulla sicurezza.</li><li>Collaborare con il datore per garantire la sicurezza.</li></ul><p><strong>Attenzione:</strong> Il mancato uso dei DPI puo comportare sanzioni amministrative (fino a 400 euro) e, in caso di infortunio, la riduzione o la decadenza della indennita.</p>",
-            "image": "/blog-assets/blog-13/documento-sicurezza.webp",
-            "imageAlt": "Documento di valutazione rischi e formazione sicurezza sul lavoro in agricoltura"
+
           }
         ]
       },
@@ -181,8 +172,7 @@
           {
             "title": "10.2 Pulizia e Igiene",
             "content": "<p>I DPI vanno puliti regolarmente:</p><ul class='list-disc pl-6 mb-4 space-y-2'><li>Casco e cuffie: pulire interno con disinfettante.</li><li>Occhiali: lavare con acqua e sapone neutro.</li><li>Mascherine: non riutilizzare quelle monouso sporche.</li><li>Guanti: lavare secondo materiale (pelle con appositi prodotti, tessuti in lavatrice).</li><li>Scarpe: togliere fango e sporco dopo ogni utilizzo, asciugare all'aria.</li></ul>",
-            "image": "/blog-assets/blog-13/pulizia-dpi.webp",
-            "imageAlt": "Pulizia e manutenzione corretta dei DPI dopo il lavoro agricolo"
+
           }
         ]
       },

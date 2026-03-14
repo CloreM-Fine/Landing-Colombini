@@ -30,8 +30,7 @@
         "id": "controllo-quotidiano",
         "title": "1. I Controlli Quotidiani: 5 Minuti che Salvano il Trattore",
         "content": "<p>Prima di accendere il trattore ogni mattina, dedica cinque minuti a questi semplici controlli visivi. Possono sembrare banali, ma prevengono il 70% dei guasti meccanici gravi:</p><ul class='list-disc pl-6 mb-4 space-y-2'><li><strong>Livello olio motore:</strong> Verifica con l'asticella che l'olio sia tra il minimo e il massimo. Mai avviare con olio sotto il minimo!</li><li><strong>Livello liquido refrigerante:</strong> Controlla nel radiatore o nel vaso di espansione. Un motore che surriscalda può grippare irreparabilmente.</li><li><strong>Livello carburante:</strong> Evita di far girare la pompa a secco, specialmente con gasolio scarso.</li><li><strong>Pressione pneumatici:</strong> Occhio visivo per gonfiore o forature evidenti.</li><li><strong>Funzionamento luci:</strong> Verifica che tutti i fanali funzionino, specialmente se lavori sulla strada.</li></ul>",
-        "image": "/blog-assets/blog-11/controllo-olio-asticella.webp",
-        "imageAlt": "Agricoltore che controlla il livello olio del trattore con l'asticella"
+
       },
       {
         "id": "cambio-olio",
@@ -45,8 +44,7 @@
           {
             "title": "2.2 Procedura di Sostituzione",
             "content": "<ol class='list-decimal pl-6 mb-4 space-y-2'><li>Riscalda leggermente il motore per 5-10 minuti (l'olio scorre meglio).</li><li>Posiziona il trattore su superficie piana.</li><li>Apri il tappo di carico olio (in alto) per far entrare aria.</li><li>Posiziona un contenitore adeguato sotto la vite di scarico.</li><li>Svita la vite di scarico e lascia defluire tutto l'olio vecchio (10-15 minuti).</li><li>Sostituisci il filtro olio (vedi paragrafo dedicato).</li><li>Rimetti la vite di scarico con guarnizione nuova.</li><li>Riempi con olio nuovo fino al livello massimo indicato.</li><li>Avvia il motore per 2 minuti, spegni e verifica il livello dopo 5 minuti.</li></ol>",
-            "image": "/blog-assets/blog-11/scarico-olio-motore.webp",
-            "imageAlt": "Scarico dell'olio usato dal motore del trattore in contenitore adeguato"
+
           }
         ]
       },
@@ -58,8 +56,7 @@
           {
             "title": "3.1 Filtro Aria",
             "content": "<p>Controlla settimanalmente se lavori in ambienti polverosi. Sostituisci ogni 500 ore o quando è visibilmente sporco/nero.</p><p><strong>Tip:</strong> Puoi soffiare leggermente con aria compressa (da fuori verso dentro) per prolungarne la vita, ma non più di 3-4 volte.</p>",
-            "image": "/blog-assets/blog-11/filtro-aria-confronto.webp",
-            "imageAlt": "Confronto tra filtro aria nuovo e filtro aria sporco del trattore"
+
           },
           {
             "title": "3.2 Filtro Carburante",
@@ -75,8 +72,7 @@
         "id": "batteria",
         "title": "4. Batteria: Cura e Manutenzione",
         "content": "<p>La batteria del trattore soffre particolarmente se il mezzo resta fermo a lungo. Ecco come prendercene cura:</p><ul class='list-disc pl-6 mb-4 space-y-2'><li><strong>Controlla i terminali:</strong> Devono essere puliti e ben serrati. Se ci sono ossidazioni bianche, pulisci con acqua e bicarbonato.</li><li><strong>Livello elettrolita (batterie tradizionali):</strong> Deve coprire le piastre. rabbocca con acqua distillata, mai con acqua del rubinetto.</li><li><strong>Carica:</strong> Se il trattore sta fermo più di un mese, carica la batteria con un mantenitore di carica.</li><li><strong>Inverno:</strong> In caso di gelate intense, stacca la batteria e conservala in luogo riparato.</li></ul><p><strong>Segnali di batteria scarica:</strong> Avviamento lento, luci deboli, spia batteria accesa durante la marcia.</p>",
-        "image": "/blog-assets/blog-11/batteria-trattore.webp",
-        "imageAlt": "Controllo dei terminali della batteria del trattore con pulizia"
+
       },
       {
         "id": "trasmissione-freni",
@@ -90,8 +86,7 @@
           {
             "title": "5.2 Impianto Idraulico",
             "content": "<p>Verifica il livello dell'olio idraulico e la sua pulizia. Se l'olio è torbido o scuro, sostituiscilo. Controlla periodicamente che non ci siano perdite attorno ai distributori e ai cilindri.</p>",
-            "image": "/blog-assets/blog-11/olio-idraulico.webp",
-            "imageAlt": "Controllo del livello olio idraulico nel serbatoio del trattore"
+
           },
           {
             "title": "5.3 Freni",
@@ -107,8 +102,7 @@
           {
             "title": "6.1 Pneumatici",
             "content": "<ul class='list-disc pl-6 mb-4 space-y-2'><li><strong>Pressione:</strong> Verifica mensilmente. Pressione corretta: 1,2-1,8 bar anteriori, 1,0-1,4 bar posteriori (verifica sul manuale).</li><li><strong>Usura:</strong> Controlla la profondità del battistrada. Sostituisci se inferiore a 30%.</li><li><strong>Danni:</strong> Tagli, sporgenze o deformazioni vanno controllati subito.</li></ul>",
-            "image": "/blog-assets/blog-11/pressione-pneumatici.webp",
-            "imageAlt": "Controllo pressione pneumatici del trattore con manometro"
+
           },
           {
             "title": "6.2 Cinghie di Trasmissione",
@@ -128,8 +122,7 @@
           {
             "title": "7.2 Preparazione Primavera",
             "content": "<p>Prima di rimettere in moto dopo l'inverno:</p><ol class='list-decimal pl-6 mb-4 space-y-2'><li>Rimonta la batteria e verifica carica.</li><li>Controlla tutti i livelli (olio, refrigerante, freni).</li><li>Verifica pressione pneumatici (si sgonfiano con il freddo).</li><li>Ispeziona cinghie e tubi (il freddo li indurisce e possono spaccarsi).</li><li>Avvia il motore e lascialo scalare 10 minuti prima di caricarlo.</li></ol>",
-            "image": "/blog-assets/blog-11/stagioni-trattore.webp",
-            "imageAlt": "Trattore coperto invernale e trattore pronto alla ripresa primaverile"
+
           }
         ]
       },
