@@ -890,19 +890,19 @@
               {
                 "title": "1.1 Decespugliatori Elettrici: Leggeri ed Economici",
                 "content": "<p>I decespugliatori elettrici sono la scelta ideale per chi ha un giardino di piccole dimensioni (fino a 200-300 mq) e dispone di una presa di corrente nelle vicinanze.</p><ul class='list-disc pl-6 mb-4 space-y-2'><li><strong>Vantaggi:</strong> Leggeri, silenziosi, economici (50-150€), zero manutenzione, eco-friendly.</li><li><strong>Svantaggi:</strong> Cavo limitante, potenza inferiore, dipendenza dalla presa elettrica.</li><li><strong>Ideale per:</strong> Giardini piccoli, uso occasionale, chi cerca un prodotto leggero.</li></ul>",
-                "image": "/blog-assets/blog-10/1.webp",
+                "image": "/blog-assets/blog-10/decespugliatore-elettrico.webp",
                 "imageAlt": "Decespugliatore elettrico in uso in un piccolo giardino domestico"
               },
               {
                 "title": "1.2 Decespugliatori a Benzina: Potenza e Autonomia",
                 "content": "<p>I decespugliatori a scoppio (benzina) sono la scelta professionale per chi ha grandi aree verdi o necessita di prestazioni elevate. Offrono potenza illimitata e nessun vincolo di cavi o batterie.</p><ul class='list-disc pl-6 mb-4 space-y-2'><li><strong>Vantaggi:</strong> Potenza superiore, nessun limite di autonomia, adatti a terreni difficili, robusti e duraturi.</li><li><strong>Svantaggi:</strong> Più pesanti (5-8 kg), rumori più elevati, richiedono manutenzione (miscela, candela), emissioni di scarico.</li><li><strong>Ideale per:</strong> Grandi giardini, aree incolte, uso professionale, terreni irregolari.</li></ul>",
-                "image": "/blog-assets/blog-10/2.webp",
+                "image": "/blog-assets/blog-10/decespugliatore-benzina.webp",
                 "imageAlt": "Decespugliatore a benzina professionale su terreno irregolare"
               },
               {
                 "title": "1.3 Decespugliatori a Batteria: Il Giusto Compromesso",
                 "content": "<p>I decespugliatori a batteria rappresentano l'evoluzione moderna: combinano la libertà di movimento dei modelli a scoppio con la leggerezza e il silenzio di quelli elettrici.</p><ul class='list-disc pl-6 mb-4 space-y-2'><li><strong>Vantaggi:</strong> Nessun cavo, silenziosi, leggeri, batterie intercambiabili, zero emissioni.</li><li><strong>Svantaggi:</strong> Autonomia limitata (30-60 minuti), costo maggiore (150-400€), tempi di ricarica.</li><li><strong>Ideale per:</strong> Giardini medi, chi cerca equilibrio tra potenza e praticità, uso regolare.</li></ul>",
-                "image": "/blog-assets/blog-10/3.webp",
+                "image": "/blog-assets/blog-10/decespugliatore-batteria.webp",
                 "imageAlt": "Decespugliatore a batteria moderno con batteria rimovibile"
               }
             ]
@@ -911,35 +911,35 @@
             "id": "potenza-motore",
             "title": "2. Potenza e Capacità: Quanta Ne Serve Davvero?",
             "content": "<p>La potenza del decespugliatore è fondamentale per determinare le prestazioni. Ecco come interpretare le specifiche tecniche:</p><ul class='list-disc pl-6 mb-4 space-y-2'><li><strong>Decespugliatori elettrici:</strong> 300-1000 Watt. Per uso domestico basta 500W, per erba alta 800W+.</li><li><strong>Decespugliatori a benzina:</strong> 25-50 cc (cilindrata). Per giardini 25-30 cc, per uso intensivo 40+ cc.</li><li><strong>Decespugliatori a batteria:</strong> 18-40V di tensione. 18-20V per uso leggero, 36-40V per prestazioni professionali.</li></ul><p><strong>Consiglio:</strong> Non scegliere sempre il più potente! Un decespugliatore troppo potente per le tue esigenze sarà solo più pesante e difficile da maneggiare.</p>",
-            "image": "/blog-assets/blog-10/4.webp",
+            "image": "/blog-assets/blog-10/comparazione-potenza.webp",
             "imageAlt": "Tabella comparativa delle potenze dei diversi tipi di decespugliatori"
           },
           {
             "id": "diametro-filo",
             "title": "3. Diametro del Filo e Testina: Dettagli che Fanno la Differenza",
             "content": "<p>Oltre al motore, è importante considerare il tipo di testina e il diametro del filo utilizzabile:</p><ul class='list-disc pl-6 mb-4 space-y-2'><li><strong>Filo da 1,6-2,0 mm:</strong> Ideale per erba e taglio ordinario.</li><li><strong>Filo da 2,4-3,0 mm:</strong> Per erba alta, rovi e piccole sterpaglie.</li><li><strong>Testina automatica vs bump-feed:</strong> L'automatica esce da sola quando colpisci il terreno, la bump-feed richiede un colpetto.</li></ul><p>Alcuni modelli professionali permettono anche di montare lame al posto del filo, ideali per cespugli e rovi più robusti.</p>",
-            "image": "/blog-assets/blog-10/5.webp",
+            "image": "/blog-assets/blog-10/filo-nylon-diametri.webp",
             "imageAlt": "Confronto tra diversi diametri di filo per decespugliatore"
           },
           {
             "id": "peso-ergonomia",
             "title": "4. Peso ed Ergonomia: Comfort durante l'Uso",
             "content": "<p>Un decespugliatore troppo pesante può affaticare braccia e schiena, specialmente durante sessioni di lavoro prolungate. Ecco cosa valutare:</p><ul class='list-disc pl-6 mb-4 space-y-2'><li><strong>Peso:</strong> Modelli elettrici 2-4 kg, a batteria 3-5 kg, a benzina 5-8 kg.</li><li><strong>Imbracatura:</strong> I modelli più pesanti dovrebbero includere un'imbracatura a spalla per distribuire il peso.</li><li><strong>Manico:</strong> Preferire manici telescopici regolabili e impugnature ergonomiche antiscivolo.</li><li><strong>Angolo di taglio:</strong> La testina dovrebbe essere inclinabile per lavorare comodamente sotto i bordi.</li></ul>",
-            "image": "/blog-assets/blog-10/6.webp",
+            "image": "/blog-assets/blog-10/imbracatura-ergonomia.webp",
             "imageAlt": "Decespugliatore con imbracatura a spola e manico ergonomico regolabile"
           },
           {
             "id": "marchi-consigliati",
             "title": "5. Marchi e Modelli Consigliati nel 2025",
             "content": "<p>Alcuni marchi si sono distinti per qualità e affidabilità nel tempo. Ecco i principali brand disponibili presso il nostro punto vendita:</p><ul class='list-disc pl-6 mb-4 space-y-2'><li><strong>Stihl:</strong> Qualità professionale tedesca, ottima durata nel tempo.</li><li><strong>Husqvarna:</strong> Robustezza scandinava, ideali per uso intensivo.</li><li><strong>Echo:</strong> Ottimo rapporto qualità-prezzo, molto affidabili.</li><li><strong>Shindaiwa:</strong> Tecnologia giapponese, leggeri e potenti.</li><li><strong>Makita:</strong> Eccellenti modelli a batteria con batterie intercambiabili.</li></ul><p>Per un consiglio personalizzato in base alle tue esigenze specifiche, vieni a trovarci in negozio: i nostri esperti ti aiuteranno a scegliere il modello perfetto per il tuo giardino!</p>",
-            "image": "/blog-assets/blog-10/7.webp",
+            "image": "/blog-assets/blog-10/marchi-esposizione.webp",
             "imageAlt": "Esposizione di decespugliatori di diverse marche in negozio"
           },
           {
             "id": "manutenzione-consigli",
             "title": "6. Manutenzione Base per Prolungare la Vita del Decespugliatore",
             "content": "<p>Una corretta manutenzione allunga la vita del tuo decespugliatore e garantisce prestazioni ottimali:</p><ul class='list-disc pl-6 mb-4 space-y-2'><li><strong>Dopo ogni uso:</strong> Pulire la testina dai residui di erba e sporco.</li><li><strong>Periodica:</strong> Controllare e sostituire il filo quando consumato.</li><li><strong>Modelli a benzina:</strong> Sostituire la candela annualmente, usare miscela fresca, svuotare il serbatoio in inverno.</li><li><strong>Modelli a batteria:</strong> Caricare la batteria prima dello stoccaggio invernale, conservare in luogo asciutto.</li></ul>",
-            "image": "/blog-assets/blog-10/8.webp",
+            "image": "/blog-assets/blog-10/pulizia-testina.webp",
             "imageAlt": "Pulizia della testina del decespugliatore dopo l'uso"
           },
           {
@@ -982,7 +982,7 @@
             "id": "controllo-quotidiano",
             "title": "1. I Controlli Quotidiani: 5 Minuti che Salvano il Trattore",
             "content": "<p>Prima di accendere il trattore ogni mattina, dedica cinque minuti a questi semplici controlli visivi. Possono sembrare banali, ma prevengono il 70% dei guasti meccanici gravi:</p><ul class='list-disc pl-6 mb-4 space-y-2'><li><strong>Livello olio motore:</strong> Verifica con l'asticella che l'olio sia tra il minimo e il massimo. Mai avviare con olio sotto il minimo!</li><li><strong>Livello liquido refrigerante:</strong> Controlla nel radiatore o nel vaso di espansione. Un motore che surriscalda può grippare irreparabilmente.</li><li><strong>Livello carburante:</strong> Evita di far girare la pompa a secco, specialmente con gasolio scarso.</li><li><strong>Pressione pneumatici:</strong> Occhio visivo per gonfiore o forature evidenti.</li><li><strong>Funzionamento luci:</strong> Verifica che tutti i fanali funzionino, specialmente se lavori sulla strada.</li></ul>",
-            "image": "/blog-assets/blog-11/1.webp",
+            "image": "/blog-assets/blog-11/controllo-olio-asticella.webp",
             "imageAlt": "Agricoltore che controlla il livello olio del trattore con l'asticella"
           },
           {
@@ -997,7 +997,7 @@
               {
                 "title": "2.2 Procedura di Sostituzione",
                 "content": "<ol class='list-decimal pl-6 mb-4 space-y-2'><li>Riscalda leggermente il motore per 5-10 minuti (l'olio scorre meglio).</li><li>Posiziona il trattore su superficie piana.</li><li>Apri il tappo di carico olio (in alto) per far entrare aria.</li><li>Posiziona un contenitore adeguato sotto la vite di scarico.</li><li>Svita la vite di scarico e lascia defluire tutto l'olio vecchio (10-15 minuti).</li><li>Sostituisci il filtro olio (vedi paragrafo dedicato).</li><li>Rimetti la vite di scarico con guarnizione nuova.</li><li>Riempi con olio nuovo fino al livello massimo indicato.</li><li>Avvia il motore per 2 minuti, spegni e verifica il livello dopo 5 minuti.</li></ol>",
-                "image": "/blog-assets/blog-11/2.webp",
+                "image": "/blog-assets/blog-11/scarico-olio-motore.webp",
                 "imageAlt": "Scarico dell'olio usato dal motore del trattore in contenitore adeguato"
               }
             ]
@@ -1010,7 +1010,7 @@
               {
                 "title": "3.1 Filtro Aria",
                 "content": "<p>Controlla settimanalmente se lavori in ambienti polverosi. Sostituisci ogni 500 ore o quando è visibilmente sporco/nero.</p><p><strong>Tip:</strong> Puoi soffiare leggermente con aria compressa (da fuori verso dentro) per prolungarne la vita, ma non più di 3-4 volte.</p>",
-                "image": "/blog-assets/blog-11/3.webp",
+                "image": "/blog-assets/blog-11/filtro-aria-confronto.webp",
                 "imageAlt": "Confronto tra filtro aria nuovo e filtro aria sporco del trattore"
               },
               {
@@ -1027,7 +1027,7 @@
             "id": "batteria",
             "title": "4. Batteria: Cura e Manutenzione",
             "content": "<p>La batteria del trattore soffre particolarmente se il mezzo resta fermo a lungo. Ecco come prendercene cura:</p><ul class='list-disc pl-6 mb-4 space-y-2'><li><strong>Controlla i terminali:</strong> Devono essere puliti e ben serrati. Se ci sono ossidazioni bianche, pulisci con acqua e bicarbonato.</li><li><strong>Livello elettrolita (batterie tradizionali):</strong> Deve coprire le piastre. rabbocca con acqua distillata, mai con acqua del rubinetto.</li><li><strong>Carica:</strong> Se il trattore sta fermo più di un mese, carica la batteria con un mantenitore di carica.</li><li><strong>Inverno:</strong> In caso di gelate intense, stacca la batteria e conservala in luogo riparato.</li></ul><p><strong>Segnali di batteria scarica:</strong> Avviamento lento, luci deboli, spia batteria accesa durante la marcia.</p>",
-            "image": "/blog-assets/blog-11/4.webp",
+            "image": "/blog-assets/blog-11/batteria-trattore.webp",
             "imageAlt": "Controllo dei terminali della batteria del trattore con pulizia"
           },
           {
@@ -1042,7 +1042,7 @@
               {
                 "title": "5.2 Impianto Idraulico",
                 "content": "<p>Verifica il livello dell'olio idraulico e la sua pulizia. Se l'olio è torbido o scuro, sostituiscilo. Controlla periodicamente che non ci siano perdite attorno ai distributori e ai cilindri.</p>",
-                "image": "/blog-assets/blog-11/5.webp",
+                "image": "/blog-assets/blog-11/olio-idraulico.webp",
                 "imageAlt": "Controllo del livello olio idraulico nel serbatoio del trattore"
               },
               {
@@ -1059,7 +1059,7 @@
               {
                 "title": "6.1 Pneumatici",
                 "content": "<ul class='list-disc pl-6 mb-4 space-y-2'><li><strong>Pressione:</strong> Verifica mensilmente. Pressione corretta: 1,2-1,8 bar anteriori, 1,0-1,4 bar posteriori (verifica sul manuale).</li><li><strong>Usura:</strong> Controlla la profondità del battistrada. Sostituisci se inferiore a 30%.</li><li><strong>Danni:</strong> Tagli, sporgenze o deformazioni vanno controllati subito.</li></ul>",
-                "image": "/blog-assets/blog-11/6.webp",
+                "image": "/blog-assets/blog-11/pressione-pneumatici.webp",
                 "imageAlt": "Controllo pressione pneumatici del trattore con manometro"
               },
               {
@@ -1080,7 +1080,7 @@
               {
                 "title": "7.2 Preparazione Primavera",
                 "content": "<p>Prima di rimettere in moto dopo l'inverno:</p><ol class='list-decimal pl-6 mb-4 space-y-2'><li>Rimonta la batteria e verifica carica.</li><li>Controlla tutti i livelli (olio, refrigerante, freni).</li><li>Verifica pressione pneumatici (si sgonfiano con il freddo).</li><li>Ispeziona cinghie e tubi (il freddo li indurisce e possono spaccarsi).</li><li>Avvia il motore e lascialo scalare 10 minuti prima di caricarlo.</li></ol>",
-                "image": "/blog-assets/blog-11/7.webp",
+                "image": "/blog-assets/blog-11/stagioni-trattore.webp",
                 "imageAlt": "Trattore coperto invernale e trattore pronto alla ripresa primaverile"
               }
             ]
